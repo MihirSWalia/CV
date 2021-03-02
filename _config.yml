@@ -89,11 +89,9 @@ content:
         sub_title: DevOps Intern
         caption: January 2020 - April 2020
         link: Link to company (optional)
-        quote: >
-          Testbook is a company which is on a mission to reshape the process of how students prepare online for competitive exams. It provides online courses and test series for various fields such as Banking, SSC, Railways, Engineering, Teaching, Defence, Civil Services and State Exams
         description: | # this will include new lines to allow paragraphs
           Description of role
-       - layout: right
+      - layout: right
         title: Testbook Edu Solutions Pvt Ltd
         sub_title: Quality Assurance Intern
         caption: May 2018 - August 2018
