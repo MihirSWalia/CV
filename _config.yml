@@ -93,7 +93,7 @@ content:
         quote: >
           Testbook is a company that provides online courses and test series for various fields such as Banking, SSC, Railways, Engineering, Teaching, Defence, Civil Services and State Exams   
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          As an Devops intern I had to install and configure various tools on GCP and AWS instances, Grant and Revoke database access for each project, Setup and manage monitoring environment for all the instances and tools and wrtie many shell scripts for automating tasks.
       - layout: left
         title: Testbook Edu Solutions
         sub_title: Quality Assurance Intern
