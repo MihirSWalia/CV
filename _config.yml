@@ -75,7 +75,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: SecOnset Community
         sub_title: Core Team Member
         caption: December 2020 - Present
@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Most of my work include writing blogs on <mark><a href="https://shad3z.medium.com/">Medium</a></mark> such as Capture the Flag write-ups, explaining concepts and any cyber security related content which helps begginers to grow. Other than that we discuss and plan future online events or seminars.
 
-      - layout: right
+      - layout: left
         title: Testbook Edu Solutions
         sub_title: DevOps Intern
         caption: January 2020 - April 2020
@@ -94,7 +94,7 @@ content:
           Testbook is a company that provides online courses and test series for various fields such as Banking, SSC, Railways, Engineering, Teaching, Defence, Civil Services and State Exams   
         description: | # this will include new lines to allow paragraphs
           Description of role
-      - layout: right
+      - layout: left
         title: Testbook Edu Solutions
         sub_title: Quality Assurance Intern
         caption: May 2018 - August 2018
