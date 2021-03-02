@@ -83,7 +83,7 @@ content:
         quote: >
           SecOnset is the easiest platform to build your career in cybersecurity. We believe in technology and Open internet to scale your dream with basic to advance level.
         description: | # this will include new lines to allow paragraphs
-          Most of my work include writing cybersecurity based blogs such as CTF write-ups, explaining concepts, etc on <a href="https://shad3z.medium.com/">Medium</a>. Other than that we discuss and plan future online events or seminars.
+          Most of my work include writing blogs such as Capture the Flag write-ups, explaining concepts and any cyber security related content which helps begginers to grow on, we post them on <mark><a href="https://shad3z.medium.com/">Medium</a></mark>. Other than that we discuss and plan future online events or seminars.
 
       - layout: right
         title: Testbook Edu Solutions
