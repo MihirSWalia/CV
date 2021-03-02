@@ -93,15 +93,15 @@ content:
         quote: >
           Testbook is a company that provides online courses and test series for various fields such as Banking, SSC, Railways, Engineering, Teaching, Defence, Civil Services and State Exams   
         description: | # this will include new lines to allow paragraphs
-          As an Devops intern I had to install and configure various tools on GCP and AWS instances, Grant and Revoke database access for each project, Setup and manage monitoring environment for all the instances and tools and wrtie many shell scripts for automating tasks.
+          As an Devops intern I had to install and configure various tools on <mark>GCP</mark> and <mark>AWS</mark> instances, Grant and Revoke <mark>No-SQL</mark> database access for each project, Setup and manage monitoring environment for all the instances and tools and wrtie many <mark>Shell Scripts</mark> for automating tasks.
       - layout: left
         title: Testbook Edu Solutions
         sub_title: Quality Assurance Intern
         caption: May 2018 - August 2018
         link: https://testbook.com
         description: | # this will include new lines to allow paragraphs
-          My role was to performed manual testing of the android application, frontend of the website and the universal backend api by writing test cases and executing them. I also represented the QA team for the official team meetings. My other job was to helped the support team with all the technical issues with customers. I also managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
-  - title: Projects # Title for the section
+          My role was to performed <mark>manual testing</mark> of the android application, frontend of the website and the universal backend api by writing test cases and executing them. I also represented the QA team for the official team meetings. My other job was to helped the support team with all the technical issues with customers. I also managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
+  - title: Projects # Title for the secti>on
     layout: list # Type of content section (list/text)
     content:
       - layout: left
