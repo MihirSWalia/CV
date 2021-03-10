@@ -64,7 +64,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Ajeenkya D.Y. Patil University
         sub_title: BCA with Cloud Technology and Information Security
         caption: 2017 - 2020
