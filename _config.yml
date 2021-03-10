@@ -105,6 +105,31 @@ content:
         title: WiFi Jammer
         description: | # this will include new lines to allow paragraphs
           This project was done using a Node MCU chip which was programmed to deauth devices connected to a router and host multiple fake access points using python code.
+
+      - layout: left
+        title: Keylogger
+        description: | # this will include new lines to allow paragraphs
+          Scripts to run in the background when run and capture keyboard activity and save it to a hidden file. Different files for Windows OS and Linux OS.
+
+      - layout: left
+        title: Web Crawler
+        description: | # this will include new lines to allow paragraphs
+          Python tool which can list email address, sub-domains or a specific term from a web application's source code by scanning through it.
+          
+      - layout: left
+        title: IDS / IPS
+        description: | # this will include new lines to allow paragraphs
+          Installing and configuring Suricata's Intrusion Detection System and Intrusion Prevention System on Debian OS and testing by attacking by another Parrot OS.
+
+      - layout: left
+        title: Jenkins
+        description: | # this will include new lines to allow paragraphs
+          This project included the tool Jenkins for automatiom. I created a JenkinsFile for automating Continuous Integration / Continuous Deployment for backend of production server at Testbook Edu Solutions.
+
+      - layout: left
+        title: Automating Backups
+        description: | # this will include new lines to allow paragraphs
+          Bash script using gcloud commands to locate the latest production server, then create and image of the instance and store it to a storage of different location.          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
