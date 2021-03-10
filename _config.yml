@@ -1,5 +1,5 @@
 # Site
-#repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -53,13 +53,11 @@ linkedin_username: mihir-walia-972642173
 about_profile_image: dp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
   - title: Education
     layout: list
@@ -84,7 +82,6 @@ content:
           SecOnset is the easiest platform to build your career in cybersecurity. We believe in technology and Open internet to scale your dream with basic to advance level.
         description: | # this will include new lines to allow paragraphs
           Most of my work include writing blogs on <mark><a href="https://shad3z.medium.com/">Medium</a></mark> such as Capture the Flag write-ups, explaining concepts and any cyber security related content which helps begginers to grow. Other than that we discuss and plan future online events or seminars.
-
       - layout: left
         title: Testbook Edu Solutions
         sub_title: DevOps Intern
@@ -119,13 +116,11 @@ content:
          # Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           This project was done using a Node MCU chip which was programmed to deauth devices connected to a router and host multiple fake access points using python code.
-- title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
