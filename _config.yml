@@ -98,22 +98,11 @@ content:
         link: https://testbook.com
         description: | # this will include new lines to allow paragraphs
           My role was to performed <mark>manual testing</mark> of the android application, frontend of the website and the universal backend api by writing test cases and executing them. I also represented the QA team for the official team meetings. My other job was to helped the support team with all the technical issues with customers. I also managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
-  - title: Projects # Title for the secti>on
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: WiFi Jammer
-        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #link_text: Link Text
-        #additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-           # icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-         # Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           This project was done using a Node MCU chip which was programmed to deauth devices connected to a router and host multiple fake access points using python code.
   - title: A Little More About Me
