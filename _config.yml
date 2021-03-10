@@ -62,8 +62,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: New York Institue of Technology
+        sub_title: MS in Cybersecurity
+        caption: 2021 - Present
+        quote: >
+          New York Tech is emerging from recent challenges as a stronger, more future-focused university. As a dynamic, highly ranked, and accredited not-for-profit university, we're committed to educating the next generation of leaders, inspiring innovation, and advancing entrepreneurship.
+        description: | # this will include new lines to allow paragraphs
+          We design, implement, and maintain software tools to support network security across multiple operating systems, overseeing the information lifecycle of an organization from planning and acquisition to implementation. We also study algorithm concepts, computer forensics, risk management and legal issues, and intrusion detection and hacker exploits.
+      
+      - layout: left
         title: Ajeenkya D.Y. Patil University
-        sub_title: BCA with Cloud Technology and Information Security
+        sub_title: BCA in Cloud Technology and Information Security
         caption: 2017 - 2020
         quote: >
           ADYPU was awarded for being the best private university in 2018 under Educational Excellence Awards. In 2019, ADYPU was awarded as the best private university by The Associated Chambers of Commerce and Industry of India (ASSOCHAM) and recognised as the ‘Best Innovation in Education’.
