@@ -130,6 +130,17 @@ content:
         title: Automating Backups
         description: | # this will include new lines to allow paragraphs
           Bash script using gcloud commands to locate the latest production server, then create and image of the instance and store it to a storage of different location.          
+
+      - layout: left
+        title: MongoDB
+        description: | # this will include new lines to allow paragraphs
+          Installed and configured MongoDB on a virtual network with a primary and several secondary replica sets.
+          
+      - layout: left
+        title: Fee Management
+        description: | # this will include new lines to allow paragraphs
+          This application was written in Java and was configured with MySQL to manage ADYPU's fee records. It had a GUI and  alerts system for student who haven't paid the fee.
+     
   - title: A Little More About Me
     layout: list
     content: 
