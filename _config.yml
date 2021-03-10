@@ -79,7 +79,7 @@ content:
         title: SecOnset Community
         sub_title: Core Team Member
         caption: December 2020 - Present
-        link: Link to company (optional)
+        #link: Link to company (optional)
         quote: >
           SecOnset is the easiest platform to build your career in cybersecurity. We believe in technology and Open internet to scale your dream with basic to advance level.
         description: | # this will include new lines to allow paragraphs
