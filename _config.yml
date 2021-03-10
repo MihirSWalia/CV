@@ -132,15 +132,19 @@ content:
           Bash script using gcloud commands to locate the latest production server, then create and image of the instance and store it to a storage of different location.          
   - title: A Little More About Me
     layout: list
-    title: Social
-    description: | #
-       Core team member of SecOnSet community, Written several infosec and CTF based writeups on medium, University's official event photographer, Volunteered in cleaning beaches, Universities convocation volunteer, Volunteered in Universities Cyber Cell, Donated books and clothes to orphanage and Bike rides with groups.
-    title: Sports
-    description: | #
-       1st Runner-up in Boxing (55kg) in College event and 1st Runner-up in Table Tennis in College event, Hosted the Table Tennis matches for Annual event(Impetus).
-    title: Cultural Events
-    description: | #
-      Comic Con 2018 Volunteer and Group Bike Rides, Participated in sketching and photography competitions.
+    content: 
+      - layout: left
+        title: Social
+        description: | #
+           Core team member of SecOnSet community, Written several infosec and CTF based writeups on medium, University's official event photographer, Volunteered in cleaning beaches, Universities convocation volunteer, Volunteered in Universities Cyber Cell, Donated books and clothes to orphanage and Bike rides with groups.
+      - layout: left
+        title: Sports
+        description: | #
+           1st Runner-up in Boxing (55kg) in College event and 1st Runner-up in Table Tennis in College event, Hosted the Table Tennis matches for Annual event(Impetus).
+      - layout: left
+        title: Cultural Events
+        description: | #
+          Comic Con 2018 Volunteer and Group Bike Rides, Participated in sketching and photography competitions.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
