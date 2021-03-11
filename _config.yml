@@ -170,8 +170,10 @@ content:
       - layout: left
         title: Cultural Events
         description: | #
-          - Comic Con 2018 Volunteer and Group Bike Rides, 
-          - Participated in sketching and photography competitions.
+          - Comic Con 2018 Volunteer,
+          - Group Bike Rides, 
+          - Participated in sketching,
+          - photography competitions.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
