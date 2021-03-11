@@ -109,22 +109,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           My role was to performed <mark>manual testing</mark> of the android application, frontend of the website and the universal backend api by writing test cases and executing them. I also represented the QA team for the official team meetings. My other job was to helped the support team with all the technical issues with customers. I also managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
 
-  - title: Skills
-    layout: left
-    content: 
-      - layout: left
-        title: Languages
-        description: | #
-          Bash, Python, HTML5, CSS, Bootstrap, Js, C, C++ and Ruby.
-      - layout: left
-        title: Grip on
-        description: | #
-          Ethical Hacking, Penetration Testing, Information Security, Server Operating System, Cryptography, Networking, Scripting, Cloud Computing, Google Cloud Platform, Amazon Web Services, Programming, Database Management and Digital Forensics.
-      - layout: left
-        title: Tools
-        description: | #
-          Metasploit, Nmap, Burp-Suite, Go-Buster, Dirsearch, Enum4linux, Hydra, Sqlmap, Nessus, Google Dorking, Shodan, Wireshark, Aircrack-ng, John the ripper, Nikto, Owasp-Zap, Cupp, Samba, Apache, MongoDB, MySQL, Nginx, Nagios, Graylog, Jenkins, Redis, FTK imager, Recuva, Icare Pro, Git, GCP, AWS, Digital Ocean, Docker and Supervisor. 
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
