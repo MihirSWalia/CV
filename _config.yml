@@ -52,10 +52,11 @@ linkedin_username: mihir-walia-972642173
 # about_title: About Me (Use this to override about section title)
 about_profile_image: dp.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I love and enjoy testing the security of different systems. Being curious about things and finding a way to break into the system is a thrill of its own which I enjoy the most. Always been keen on learning and gaining more knowledge. I am a dedicated and hard working person who wishes to explore more on Penetration testing.
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  I am a cybersecurity and automotive enthusiast. I love and enjoy testing the security of different systems. Being curious about things and finding a way to break into the system is a thrill of its own which I enjoy the most. Always been keen on learning and gaining more knowledge and then sharing it with my fellow learners. I am a dedicated person who wishes to explore more in the field of Cyber Security. Here are some of my hobbies:
+    - Bike rides,
+    - Tale Tennis,
+    - Online Capture the flags
+    - <a href="https://shad3z.medium.com">Blogs</a>
 content:
   - title: Education
     layout: list
@@ -171,7 +172,6 @@ content:
         title: Cultural Events
         description: | #
           - Comic Con 2018 Volunteer,
-          - Group Bike Rides, 
           - Participated in sketching,
           - photography competitions.
 # Footer
