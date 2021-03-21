@@ -49,7 +49,7 @@ linkedin_username: mihir-walia-972642173
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: <strong>About Me</strong> 
 about_profile_image: dp.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a cybersecurity and automotive enthusiast. I love and enjoy testing the security of different systems. Being curious about things and finding a way to break into the system is a thrill of its own which I enjoy the most. Always been keen on learning and gaining more knowledge and sharing it with my fellow learners. I am a dedicated person who wishes to explore more in the field of Cyber Security and make a like of it. Other than cybersecurity i also enjoy:
@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Competetive gaming,
     - <a href="https://shad3z.medium.com">Bloging</a>.
 content:
-  - title: Education
+  - title: <strong>Education</strong>
     layout: list
     content:
       - layout: left
@@ -109,7 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My role was to performed <mark>manual testing</mark> of the android application, frontend of the website and the universal backend api by writing test cases and executing them. I also represented the QA team for the official team meetings. My other job was to helped the support team with all the technical issues with customers. I also managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
 
-  - title: Skills
+  - title: <strong>Skills</strong>
     layout: list
     content: 
       - layout: left
@@ -126,7 +126,7 @@ content:
           Metasploit, Nmap, Burp-Suite, Go-Buster, Dirsearch, Enum4linux, Hydra, Sqlmap, Nessus, Google Dorking, Shodan, Wireshark, Aircrack-ng, John the ripper, Nikto, Owasp-Zap, Cupp, Samba, Apache, MongoDB, MySQL, Nginx, Nagios, Graylog, Jenkins, Redis, FTK imager, Recuva, Icare Pro, Git, GCP, AWS, Digital Ocean, Docker and Supervisor. 
 
 
-  - title: Projects # Title for the section
+  - title: <strong>Projects</strong> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -169,7 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This application was written in Java and was configured with MySQL to manage ADYPU's fee records. It had a GUI and  alerts system for student who haven't paid the fee.
 
-  - title: Certifications
+  - title: <strong>Certifications</strong>
     layout: list
     content:
       - layout: left
@@ -177,7 +177,7 @@ content:
         description: |
           Mihir Walia, Sneha Ambore “<a href='http://www.i2or-ijrece.com/vol.-7-issue-2–csnsda-.html'>Methods of Managerial, Procedural and Technical Controls for Virus and Worms</a>”.
   
-  - title: A Little More About Me
+  - title: <strong>A Little More About Me</strong>
     layout: list
     content: 
       - layout: left
