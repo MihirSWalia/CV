@@ -80,7 +80,7 @@ content:
           ADYPU was awarded for being the best private university in 2018 under Educational Excellence Awards. In 2019, ADYPU was awarded as the best private university by The Associated Chambers of Commerce and Industry of India (ASSOCHAM) and recognised as the ‘Best Innovation in Education’.
         description: | # this will include new lines to allow paragraphs
           This unique course provides dual career options for the students in the fast growing technology sectors of Cloud Technology and Information Security. In addition to all the mandatory subjects of a traditional BCA, this specialized course offers in-depth practical know-how of the current trends.
-  - title: Experience
+  - title: <strong>Experience</strong>
     layout: list
     content:
       - layout: left
@@ -91,7 +91,7 @@ content:
         quote: >
           SecOnset is the easiest platform to build your career in cybersecurity. We believe in technology and Open internet to scale your dream with basic to advance level.
         description: | # this will include new lines to allow paragraphs
-          Most of my work include writing blogs on <mark><a href="https://shad3z.medium.com/">Medium</a></mark> such as Capture the Flag write-ups, explaining concepts and any cyber security related content which helps begginers to grow. Other than that we discuss and plan future online events or seminars.
+          Being a core member of an upcoming community, my work include writing blogs on <mark><a href="https://shad3z.medium.com/">Medium</a></mark> such as Capture the Flag write-ups, explaining concepts and any cyber security related content which helps begginers to grow. Other than that we discuss and plan future online events or seminars.
       - layout: left
         title: Testbook Edu Solutions
         sub_title: DevOps Intern
@@ -193,7 +193,7 @@ content:
         title: Cultural Events
         description: | #
           - Comic Con 2018 Volunteer,
-          - Participated in sketching,
+          - Participated in sketching competetions,
           - photography competitions.
 # Footer
 footer_show_references: false
