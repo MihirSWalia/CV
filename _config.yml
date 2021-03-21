@@ -169,13 +169,71 @@ content:
         description: | # this will include new lines to allow paragraphs
           This application was written in Java and was configured with MySQL to manage ADYPU's fee records. It had a GUI and  alerts system for student who haven't paid the fee.
 
-  - title: <strong>Certifications</strong>
+  - title: <strong>Publication</strong>
     layout: list
     content:
       - layout: left
         title: IJRECE Paper 
         description: |
-          Mihir Walia, Sneha Ambore “<a href='http://www.i2or-ijrece.com/vol.-7-issue-2–csnsda-.html'>Methods of Managerial, Procedural and Technical Controls for Virus and Worms</a>”.
+          Mihir Walia, Sneha Ambore “<a href='http://www.i2or-ijrece.com/vol.-7-issue-2--csnsda-.html'>Methods of Managerial, Procedural and Technical Controls for Virus and Worms</a>”.
+      
+  - title: <strong>Certifications</strong>
+    layout: list
+    content:
+      - layout: left
+        title: ICSI
+        description: | 
+          Certified Network Security Specialist(CNSS).
+      
+      - layout: left
+        title: IBM
+        description: | 
+          Cybersecurity Compliance Framework System Administration.
+         
+      - layout: left
+        title: Passmarks
+        description: |
+          OSForensics Triage Certification.
+      
+      - layout: left
+        title: IACET 
+        description: |
+          210W-06 ICS Cybersecurity Threats.
+       
+      - layout: left
+        title: LinkedIn
+        description: |
+          Penetration Testing : Advanced Kali Linux.
+          
+      - layout: left
+        title: LinkedIn
+        description: |
+          Penetration Testing : Advanced Web Testing.
+          
+      - layout: left
+        title: LinkedIn
+        description: |
+          Ethical Hacking : The Complete Malware Analysis Process.
+          
+      - layout: left
+        title: LinkedIn
+        description: |
+          Amazon Web Services for Architects Essential Training(2017).
+      
+      - layout: left
+        title: Hewlett Packard Enterprise
+        description: |
+          Artificial Intelligence.
+      
+      - layout: left
+        title: Udacity
+        description: |
+          Python Nanodegree.
+         
+      - layout: left
+        title: VMware
+        description: |
+          Virtualization for Beginners.
   
   - title: <strong>A Little More About Me</strong>
     layout: list
