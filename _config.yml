@@ -74,12 +74,12 @@ content:
       
       - layout: left
         title: Ajeenkya D.Y. Patil University
-        sub_title: BCA in Cloud Technology and Information Security
+        sub_title: BCA in Cloud Technology and Information Security 
         caption: 2017 - 2020
         quote: >
           ADYPU was awarded for being the best private university in 2018 under Educational Excellence Awards. In 2019, ADYPU was awarded as the best private university by The Associated Chambers of Commerce and Industry of India (ASSOCHAM) and recognised as the ‘Best Innovation in Education’.
         description: | # this will include new lines to allow paragraphs
-          This unique course provides dual career options for the students in the fast growing technology sectors of Cloud Technology and Information Security. In addition to all the mandatory subjects of a traditional BCA, this specialized course offers in-depth practical know-how of the current trends.
+          Completed this course with 9.05/10 CGPA. This unique course provides dual career options for the students in the fast growing technology sectors of Cloud Technology and Information Security. In addition to all the mandatory subjects of a traditional BCA, this specialized course offers in-depth practical know-how of the current trends.
   - title: <strong>Experience</strong>
     layout: list
     content:
