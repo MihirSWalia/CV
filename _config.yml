@@ -12,8 +12,8 @@ email: mihirswalia@gmail.com
 # email_title: Email (Email title override)
 #phone: +91 7219533255
 # phone_title: Phone (Phone title override)
-website: https://mihirswalia.github.io/Terminal-CV/
-website_title: Terminal CV
+#website: https://mihirswalia.github.io/Terminal-CV/
+#website_title: Terminal CV
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -270,7 +270,7 @@ content:
           - Participated in sketching competetions,
           - photography competitions.
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
