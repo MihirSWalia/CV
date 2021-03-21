@@ -231,17 +231,17 @@ content:
       - layout: left
         title: PenetesterLab
         description: | 
-          Essential Badge, Unix Badge, PCAP badge, White Badge & Serialize Badge. 
-       
-      - layout: left
-        title: Qwik Labs
-        description: | 
-          Google Cloud Essentials.
+          Essential Badge, Unix Badge, PCAP badge, White Badge & Serialize Badge.
         
       - layout: left
         title: TryHackMe
         description: |
           Burp'ed, Nessus Nerd, Cat Linux.txt, Metasploitable, ICE, Blue, Webbed, Linux PrivEsc, Windows PrivEsc, ohSINT, Mr.Robot, OWASP TOP 10, Christmas 2019, Overpassed & 7 Day Streak.
+      
+      - layout: left
+        title: Qwik Labs
+        description: | 
+          Google Cloud Essentials.
   
   - title: <strong>A Little More About Me</strong>
     layout: list
