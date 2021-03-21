@@ -169,6 +169,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           This application was written in Java and was configured with MySQL to manage ADYPU's fee records. It had a GUI and  alerts system for student who haven't paid the fee.
 
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: IJRECE Paper 
+        description: |
+          Mihir Walia, Sneha Ambore “<a href='http://www.i2or-ijrece.com/vol.-7-issue-2–csnsda-.html'>Methods of Managerial, Procedural and Technical Controls for Virus and Worms</a>”.
+  
   - title: A Little More About Me
     layout: list
     content: 
