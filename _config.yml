@@ -271,7 +271,7 @@ content:
           - photography competitions.
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: <a href='https://mihirswalia.github.io/Terminal-CV/'>Terminal CV</a>
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
