@@ -183,7 +183,7 @@ content:
       - layout: left
         title: ICSI
         description: | 
-          Certified Network Security Specialist(CNSS).
+          Certified Network Security Specialist (CNSS).
       
       - layout: left
         title: IBM
@@ -203,22 +203,7 @@ content:
       - layout: left
         title: LinkedIn
         description: |
-          Penetration Testing : Advanced Kali Linux.
-          
-      - layout: left
-        title: LinkedIn
-        description: |
-          Penetration Testing : Advanced Web Testing.
-          
-      - layout: left
-        title: LinkedIn
-        description: |
-          Ethical Hacking : The Complete Malware Analysis Process.
-          
-      - layout: left
-        title: LinkedIn
-        description: |
-          Amazon Web Services for Architects Essential Training(2017).
+          Penetration Testing : Advanced Kali Linux, Penetration Testing : Advanced Web Testing, Ethical Hacking : The Complete Malware Analysis Process & Amazon Web Services for Architects Essential Training(2017).
       
       - layout: left
         title: Hewlett Packard Enterprise
@@ -234,6 +219,29 @@ content:
         title: VMware
         description: |
           Virtualization for Beginners.
+          
+  - title: <strong>Badges</strong>
+    layout: list
+    content: 
+      - layout: left
+        title: Rangeforce
+        description: | 
+          Blue Team Star Challenge & SOC Analyst 1.
+        
+      - layout: left
+        title: PenetesterLab
+        description: | 
+          Essential Badge, Unix Badge, PCAP badge, White Badge & Serialize Badge. 
+       
+      - layout: left
+        title: Qwik Labs
+        description: | 
+          Google Cloud Essentials.
+        
+      - layout: left
+        title: TryHackMe
+        description: |
+          Burp'ed, Nessus Nerd, Cat Linux.txt, Metasploitable, ICE, Blue, Webbed, Linux PrivEsc, Windows PrivEsc, ohSINT, Mr.Robot, OWASP TOP 10, Christmas 2019, Overpassed & 7 Day Streak.
   
   - title: <strong>A Little More About Me</strong>
     layout: list
