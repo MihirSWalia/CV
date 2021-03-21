@@ -12,8 +12,8 @@ email: mihirswalia@gmail.com
 # email_title: Email (Email title override)
 #phone: +91 7219533255
 # phone_title: Phone (Phone title override)
-#website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://mihirswalia.github.io/Terminal-CV/
+website_title: Terminal CV
 
 # Dark Mode (true/false/never)
 darkmode: true
