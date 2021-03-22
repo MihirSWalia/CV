@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Mihir Walia
 title: Cybersecurity Enthusiast | Penetration Tester 
-email: mihirswalia@gmail.com
+#email: mihirswalia@gmail.com
 # email_title: Email (Email title override)
 #phone: +91 7219533255
 # phone_title: Phone (Phone title override)
@@ -30,7 +30,7 @@ linkedin_username: mihir-walia-972642173
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
-#googleplus_username: +jekyll
+googleplus_username: Mihirswalia@gmail.com
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
