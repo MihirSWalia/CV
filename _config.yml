@@ -63,6 +63,15 @@ content:
   - title: <strong>Education</strong>
     layout: list
     content:
+    
+      - layout: left
+        title: University of North Carolina at Charlotte
+        sub-title: Master of Science in Cybersecurity
+        caption: 2021 - 2023
+        quote: >
+          UNC Charlotte is North Carolina's urban research university. It leverages its location in the state's largest city to offer internationally competitive programs of research and creative activity, exemplary undergraduate, graduate and professional programs, and a focused set of community engagement initiatives. UNC Charlotte maintains a particular commitment to addressing the cultural, economic, educational, environmental, health, and social needs of the greater Charlotte region. 
+        description: | 
+          The Master of Science in Cybersecurity is designed to equip students with the latest knowledge and skills in cybersecurity and privacy.  Graduates of the program are employable by both businesses and governments that have important information assets to be protected from increasingly sophisticated cyber-attacks.
       - layout: left
         title: Ajeenkya D.Y. Patil University
         sub_title: BCA in Cloud Technology and Information Security 
